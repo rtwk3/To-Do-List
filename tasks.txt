@@ -1,0 +1,18 @@
+[Done] [Low] Water the plants
+[Low] Organize photo albums
+[Low] Watch a documentary on Netflix
+[Low] Browse for new music
+[Low] Organize photo albums
+[Done] [Medium] Update resume
+[Medium] Clean the kitchen
+[Medium] Rearrange desktop icons
+[Medium] Pay electricity bill
+[Done] [High] Attend job interview at 10 AM
+[Done] [High] Respond to legal notice
+[High] Organize project folders
+[High] Prepare for client meeting at 3 PM
+[High] Prepare slides for Monday presentation
+[Low] "Watch a documentary on Netflix"
+[Low] "Watch a documentary on Netflix"
+[Low] "Watch a documentary on Netflix"
+[Low] "Water the plants"

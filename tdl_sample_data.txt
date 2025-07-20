@@ -1,0 +1,68 @@
+🟢 Low Priority
+These are non-urgent, optional, or casual tasks.
+
+"Watch a documentary on Netflix"
+
+"Organize photo albums"
+
+"Rearrange desktop icons"
+
+"Browse for new music"
+
+"Read a blog post about productivity"
+
+"Sort laundry by color"
+
+"Charge your smartwatch"
+
+"Declutter bookmarks in browser"
+
+"Water the plants"
+
+"Check weather forecast for fun"
+
+🟡 Medium Priority
+These are important but not super time-sensitive — can be done today or tomorrow.
+
+"Buy groceries for the week"
+
+"Reply to John's email about the meeting"
+
+"Clean the kitchen"
+
+"Pay electricity bill"
+
+"Backup phone data"
+
+"Update resume"
+
+"Book a dentist appointment"
+
+"Prepare slides for Monday presentation"
+
+"Review this month's budget"
+
+"Organize project folders"
+
+🔴 High Priority
+These are urgent, time-bound, or critical in nature.
+
+"Submit final project report before midnight"
+
+"Fix critical bug in production system"
+
+"Call doctor for test results"
+
+"Attend job interview at 10 AM"
+
+"Renew driver's license – last day today"
+
+"Prepare for client meeting at 3 PM"
+
+"Send invoice to client before cutoff"
+
+"Complete tax filing before due date"
+
+"Pick up prescription before pharmacy closes"
+
+"Respond to legal notice"
